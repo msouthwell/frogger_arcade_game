@@ -1,15 +1,5 @@
 # FROGGER ARCADE GAME
 ===============================
-
-## Install
---------
-Clone repository, change directories, open index.html
-```shell
-git clone https://github.com/msouthwell/frontend-nanodegree-arcade-game.git
-cd frontend-nanodegree-arcade-game
-open index.html
-```
-
 ## Gameplay
 --------
 The goal of the game is to move your character from the grass to the water
@@ -23,6 +13,17 @@ five levels is complete.
 Collecting items isn't required but you only have one chance to collect each.
 
 Collect all five items and then keep going to see how high of a score you can get.
+
+## Install
+--------
+Clone repository, change directories, open index.html
+```shell
+git clone https://github.com/msouthwell/frontend-nanodegree-arcade-game.git
+cd frontend-nanodegree-arcade-game
+open index.html
+```
+
+
 
 
 
