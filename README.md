@@ -8,7 +8,7 @@ Clone repository, change directories, open index.html
 git clone https://github.com/msouthwell/frontend-nanodegree-arcade-game.git
 cd frontend-nanodegree-arcade-game
 open index.html
-'''
+
 
 ## Gameplay
 --------
