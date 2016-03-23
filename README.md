@@ -7,8 +7,8 @@ without touching any bugs.  Movement occurs via the arrow keys.
 
 The game progesses in difficulty each time you reach the water.  Reach the water
 enough times and a collectable item will spawn.  Collect the gem and move to the
-water to complete the level.  The difficulty is reduced after each level of the
-five levels is complete.
+water to complete the level.  The difficulty is reduced after each of the
+five levels is completed.
 
 Collecting items isn't required but you only have one chance to collect each.
 
