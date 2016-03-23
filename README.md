@@ -1,6 +1,29 @@
-frontend-nanodegree-arcade-game
+# FROGGER ARCADE GAME
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+## Install
+--------
+Clone repository, change directories, open index.html
+```shell
+git clone https://github.com/msouthwell/frontend-nanodegree-arcade-game.git
+cd frontend-nanodegree-arcade-game
+open index.html
+'''
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Gameplay
+--------
+The goal of the game is to move your character from the grass to the water
+without touching any bugs.  Movement occurs via the arrow keys.
+
+The game progesses in difficulty each time you reach the water.  Reach the water
+enough times and a collectable item will spawn.  Collect the gem and move to the
+water to complete the level.  The difficulty is reduced after each level of the
+five levels is complete.
+
+Collecting items isn't required but you only have one chance to collect each.
+
+Collect all five items and then keep going to see how high of a score you can get.
+
+
+
+
