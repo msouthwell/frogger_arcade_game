@@ -14,17 +14,12 @@ Collecting items isn't required but you only have one chance to collect each.
 
 Collect all five items and then keep going to see how high of a score you can get.
 
+## Source
+This arcade game was created as part of the Udacity Front-end Web Developer Nanodegree.  Images and portions of the source code were provided as part of the project.  
+
+original project can be found at: https://github.com/udacity/frontend-nanodegree-arcade-game 
+
 ## Install
 --------
 Clone repository, change directories, open index.html
-```shell
-git clone https://github.com/msouthwell/frontend-nanodegree-arcade-game.git
-cd frontend-nanodegree-arcade-game
-open index.html
-```
-
-
-
-
-
 
